@@ -24,8 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/yourusername/weather-app)
-- Live Site URL: [Live Demo](https://your-weather-app.vercel.app)
+- Live Site URL: [Live Demo](https://weather-app-main-demo.vercel.app/)
 
 ## My process
 
@@ -58,4 +57,4 @@ async function loadWeather(city) {
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- [@Tomyang](https://tomyang1993.github.io)

@@ -193,7 +193,7 @@ input {
    If search is in header: */
 header {
     position: relative;
-    z-index: 1000;
+    z-index: 3000;
 }
 
 /* If search is separate */
